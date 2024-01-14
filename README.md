@@ -9,10 +9,10 @@ A study guide to assist with CodeCamp that contains important notes found throug
 - While creating this project I learned how to use HTML, CSS, and JavaScript to create a functioning website.  I also learned more about utilizing Terminal and GitHub to assist with creating projects.
 
 ## Table of Contents:
-1 HTML
-2 CSS
-3 Git
-4 JavaScript
+- HTML
+- CSS
+- Git
+- JavaScript
 
 ## Installation
 
