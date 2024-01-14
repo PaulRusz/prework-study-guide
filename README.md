@@ -1,6 +1,6 @@
-#<PreWork Study Guide>
+# <PreWork Study Guide>
 
-##Description
+## Description
 A study guide to assist with CodeCamp that contains important notes found throughout the modules
 
 - The motivation behind the Study Guide was to provide a quick reference for me to refer to should I require assitance with something I know the prework went over.
@@ -8,26 +8,26 @@ A study guide to assist with CodeCamp that contains important notes found throug
 - The project does not necessarily solve any problem, but instead provides a website for me to refer to when I require it.
 - While creating this project I learned how to use HTML, CSS, and JavaScript to create a functioning website.  I also learned more about utilizing Terminal and GitHub to assist with creating projects.
 
-##Table of Contents:
+## Table of Contents:
 1 HTML
 2 CSS
 3 Git
 4 JavaScript
 
-##Installation
+## Installation
 
 N/A
 
-##Usage
+## Usage
 
 The webpage can be used the same as any.  Scrolling may be required as I continue to add to the study guide.  The Prework Study Guide contains notes for several topics that were reviewed during the prework modules to include CSS, HTML, JavaScript, and Git.
 
-##Credits
+## Credits
 
 N/A
 
 
-##License
+## License
 
 MIT License
 
